@@ -1,0 +1,31 @@
+#mensagem-box {
+    width: 710px;
+    height: 310px;
+    border: 2px solid #458ae6;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #1e1e1e;
+    box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.3);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.mensagem {
+    font-size: 25px;
+    padding: 5px;
+}
+
+.nickname {
+    color: #6663a5;
+}
+.msg {
+    color: #828282;
+}
+
+.live-nickname {
+    color: #458ae6;
+}
+
+.live-msg {
+    color: #737373;
+}
